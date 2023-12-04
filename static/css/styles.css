@@ -1,0 +1,27 @@
+/* This CSS file will need to be added to the styling of 
+your web pages for the styles to be rendered. */
+
+body {
+color:  #fff;;
+background:linear-gradient(0deg, rgba(29, 28, 34, 0.9), rgba(252, 252, 220, 0.2)) , url("../img/bg.jpg");
+background-size:cover;
+}
+
+a {
+    color: #ffc107;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+  color:  #fff;;
+  background:linear-gradient(30deg, rgba(29, 28, 34, 0.9), rgba(252, 252, 220, 0.2)) , url("../img/bg2.jpg");
+  background-size:cover; 
+}
+
+.space-above {
+  margin-top: 20px;
+  padding-top: 20px;
+}
